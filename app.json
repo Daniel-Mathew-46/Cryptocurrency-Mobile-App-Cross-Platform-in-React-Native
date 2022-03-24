@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "CryptoApp",
+    "slug": "CryptoApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "splash": {
+        "image": "./assets/images/splash/ios/launch_screen@2x.png",
+        "resizeMode": "cover"
+      }
+    },
+    "android": {
+      "splash": {
+        "mdpi": "./assets/images/splash/android/drawable-mdpi/launch_screen.png",
+        "hdpi": "./assets/images/splash/android/drawable-hdpi/launch_screen.png",
+        "xhdpi": "./assets/images/splash/android/drawable-xhdpi/launch_screen.png",
+        "xxhdpi": "./assets/images/splash/android/drawable-xxhdpi/launch_screen.png",
+        "xxxhdpi": "./assets/images/splash/android/drawable-xxxhdpi/launch_screen.png",
+        "resizeMode": "cover"
+      }
+    }
+  },
+  "name": "CryptoApp"
+}
